@@ -40,6 +40,12 @@
 
 ###
 
+<p align="left">🔭 I'm currently working on a Python scraping engine.</p>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/tomislav98/tomislav98/output/snake.svg" alt="Snake animation" />
 
 ###
