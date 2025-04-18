@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomislav98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomislav98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomislav98&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomislav98&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR6Mnp6dnNiaXExNTA1MDMzazZ3a3c5bTQ0ZnZidzJ3ZnlteXFuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jG186kNLKs6TS/giphy.gif"  />
 
 ###
 
@@ -40,7 +36,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR6Mnp6dnNiaXExNTA1MDMzazZ3a3c5bTQ0ZnZidzJ3ZnlteXFuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jG186kNLKs6TS/giphy.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/tomislav98/tomislav98/output/snake.svg" alt="Snake animation" />
 
