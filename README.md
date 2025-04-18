@@ -1,4 +1,4 @@
-<h2 align="left">I'm Tomislav, a Computer Science student from Italy 🇮🇹</h2>
+<h2 align="left">👋 Hi, I'm Tomislav — a Computer Science student passionate about tech and development.</h2>
 
 ###
 
