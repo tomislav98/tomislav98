@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on a Python scraping engine.</p>
+<p align="left">🔭 I'm currently working on a Python scraping engine.<br>🌱 I'm currently learning Rust and Angular.</p>
 
 ###
 
